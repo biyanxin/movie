@@ -1,0 +1,22 @@
+{
+	"name": "movie",
+	"version": "0.0.1",
+	"author": "haha",
+	"description": "第一个node.js程序",
+	"keywords":["node.js","javascript"],
+	"license":"MIT",
+	"engines": {"node": "0.10.x"},
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "latest",
+		"pug": "latest",
+		"bower": "latest",
+		"moment": "latest",
+		"mongoose": "latest",
+		"serve-static": "latest",
+		"body-parser": "latest",
+		"underscore": "latest",
+	},
+}
